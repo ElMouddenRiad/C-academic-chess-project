@@ -1,6 +1,6 @@
 # Projet académique — Jeu d'échecs multi-versions
 
-Ce dépôt présente l'évolution d'un même projet académique autour du jeu d'échecs, réalisé en 2023, et décliné en trois étapes complémentaires :
+Ce dépôt présente l'évolution d'un même projet académique autour du jeu d'échecs, réalisé en **2023**, et décliné en trois étapes complémentaires :
 
 1. une version console en C++,
 2. une version graphique Qt/C++ avec mode réseau et IA locale,
