@@ -1,0 +1,57 @@
+# Global
+.DS_Store
+Thumbs.db
+debug.log
+
+# Local IDE / project files
+*.dev
+*.layout
+*.pro.user
+*.user
+copy.ppc
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.idb
+*.dSYM/
+
+# Qt
+build/
+*.pro.user.*
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Stockfish binary shipped with the Unity subproject
+projects/graphical-unity-stockfish/stockfish_15.1_win_x64_popcnt/*.exe
+
+# Unity generated files
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.csproj
+*.unityproj
+*.sln
+*.tmp
